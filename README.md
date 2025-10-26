@@ -5,7 +5,7 @@
 
 <h1 align="center">Mohamed Mahrous</h1>
 
-<h3 align="center">Embedded System and Arduino</h3>
+<h3 align="center">Embedded System and Robotics</h3>
 
 ---
 
