@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Mohamed Mahrous Banner" width="100%">
+  <img src="https://i.postimg.cc/abcd1234/MohamedMahrousBanner.png" " alt="Mohamed Mahrous Banner" width="100%">
 </p>
 
 <h1 align="center">Mohamed Mahrous</h1>
@@ -30,39 +30,50 @@
 
 ### 🧠 About Me:
 - 🤖 Passionate about *Robotics and Embedded Systems*  
-- 🌱 Currently learning *C, C++, Python, and Microcontrollers (ATmega32, Arduino)*  
-- ⚡ I enjoy designing intelligent robots that can sense and react  
-- 💬 Ask me about *Robotics, Embedded Design, and Control Systems*
+- ⚙️ Experienced with *ATmega32, LCD, Keypad, and Sensors*  
+- 🌱 Currently learning *Advanced C, C++, and Python*  
+- 💬 Ask me about *Embedded Design, Microcontrollers, and Robots*
 
 ---
 
-### 🛠️ Skills:
+### 🛠️ Skills & Tools:
 <p align="center">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>
+  <!-- IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" alt="Code::Blocks" width="50" height="50"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <!-- Other Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Proteus_Design_Suite_Logo.png" alt="Proteus" width="50" height="50"/>
 </p>
 
 ---
 
-### 🚀 Projects:
+### 🚀 My Projects:
 - 💳 *Mini ATM System using ATmega32 (LCD + Keypad + 7-Segment Display)*  
-- 🤖 *Autonomous Line Follower Robot using Sensors*  
-- 💡 *Smart Home Automation using Arduino*
+- 🤖 *Smart Robot Car (Ultrasonic + Line Follower)*  
+- 💡 *LED Matrix Display: Arabic & English Animation*
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMahrous&show_icons=true&theme=radical" alt="Mohamed Mahrous GitHub Stats" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMahrous&show_icons=true&theme=radical" alt="GitHub Stats" width="60%">
 </p>
 
 <p align="center">
